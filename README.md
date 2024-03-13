@@ -122,7 +122,17 @@ Transaction 3: Send 5 ether.
 
 ![Screenshot 2024-03-13 at 2 03 54 PM](https://github.com/ikafit808/Joint-Savings-Account-Contract-in-Solidity20/assets/142754993/80a95ad9-7ffb-445a-b1bd-122f585bd958)
 
+Withdraw 5 ether into `accountOne`
 
+![Screenshot 2024-03-13 at 2 19 57 PM](https://github.com/ikafit808/Joint-Savings-Account-Contract-in-Solidity20/assets/142754993/97c869f3-f05c-4284-a98a-7eb163223983)
+
+Withdraw 10 ether into `accountTwo
+
+![Screenshot 2024-03-13 at 2 24 36 PM](https://github.com/ikafit808/Joint-Savings-Account-Contract-in-Solidity20/assets/142754993/267e655f-a1bc-42be-aeeb-ca1166a64f23)
+
+Use the `lastToWithdraw` and `lastWithdrawAmount` functions to verify that the address and amount were correct.
+
+![Screenshot 2024-03-13 at 2 26 54 PM](https://github.com/ikafit808/Joint-Savings-Account-Contract-in-Solidity20/assets/142754993/4c8f936d-efcc-48af-b9c4-b1e838f453a2)
 
 
 

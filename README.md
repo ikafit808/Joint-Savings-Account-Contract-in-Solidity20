@@ -99,3 +99,48 @@ To interact with your deployed smart contract, complete the following steps:
     > **Note** Remembering how to convert ether to wei and vice versa can be challenging. So, you can use a website like [Ethereum Unit Converter](https://eth-converter.com/) to ease doing the conversion.
 
 3. Once you’ve successfully deposited funds into your contract, test the contract’s withdrawal functionality by withdrawing 5 ether into `accountOne` and 10 ether into `accountTwo`. After each transaction, use the `contractBalance` function to verify that the funds were withdrawn from your contract. Also, use the `lastToWithdraw` and `lastWithdrawAmount` functions to verify that the address and amount were correct.
+
+I compiled the smart contract
+
+![Screenshot 2024-03-13 at 1 48 08 PM](https://github.com/ikafit808/Joint-Savings-Account-Contract-in-Solidity20/assets/142754993/4467f5ff-0b51-4494-84d4-9f2dc5917855)
+
+I then deployed the smart contract
+
+![Screenshot 2024-03-13 at 1 47 21 PM](https://github.com/ikafit808/Joint-Savings-Account-Contract-in-Solidity20/assets/142754993/c0684a98-7a30-4210-84ff-bcb31176b15c)
+
+Transaction 1: Send 1 ether as wei.
+
+![Screenshot 2024-03-13 at 2 01 21 PM](https://github.com/ikafit808/Joint-Savings-Account-Contract-in-Solidity20/assets/142754993/121b1eed-87d0-43ad-ad96-5a83be22d879)
+
+Transaction 2: Send 10 ether as wei.
+
+![Screenshot 2024-03-13 at 2 02 33 PM](https://github.com/ikafit808/Joint-Savings-Account-Contract-in-Solidity20/assets/142754993/3d22a5eb-3c3e-4a1c-8f92-a50f804191ae)
+
+Transaction 3: Send 5 ether.
+
+![Screenshot 2024-03-13 at 2 03 18 PM](https://github.com/ikafit808/Joint-Savings-Account-Contract-in-Solidity20/assets/142754993/56e128de-e62d-4d52-9c82-e6e0b6f116d6)
+
+![Screenshot 2024-03-13 at 2 03 54 PM](https://github.com/ikafit808/Joint-Savings-Account-Contract-in-Solidity20/assets/142754993/80a95ad9-7ffb-445a-b1bd-122f585bd958)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
